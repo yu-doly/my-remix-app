@@ -36,3 +36,6 @@ Make sure to deploy the output of `remix build`
 
 - `build/server`
 - `build/client`
+
+### MEMO
+next https://remix.run/docs/en/main/start/tutorial#data-mutations
